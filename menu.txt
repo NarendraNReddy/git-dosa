@@ -1,4 +1,5 @@
 plain dosa
+<<<<<<< HEAD
 
 4 eggs 
 neyyi
@@ -6,3 +7,7 @@ neyyi
 6 eggs
 oil and
 
+=======
+6 eggs with ghee with small karam
+oil and ghee is not required much
+>>>>>>> 7783438 (so many changes)
